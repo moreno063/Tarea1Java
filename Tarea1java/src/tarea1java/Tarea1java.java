@@ -14,8 +14,13 @@ public class Tarea1java {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-     
-        System.out.println("Oreja");
-    }
+     /** 
+     * realizar encuesta 
+     * Nombre a ascii
+     * Carrera
+     * edad a string, double y float 
+     * telefono a string
+     */
+        
     
 }

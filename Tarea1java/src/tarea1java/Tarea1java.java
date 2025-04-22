@@ -21,6 +21,6 @@ public class Tarea1java {
      * edad a string, double y float 
      * telefono a string
      */
-        
+    }
     
 }

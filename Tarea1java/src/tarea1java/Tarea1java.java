@@ -4,15 +4,15 @@
  */
 package tarea1java;
 
+import java.util.Scanner;
+
 /**
  *
  * @author estudiante
  */
 public class Tarea1java {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
      /** 
      * realizar encuesta 
@@ -21,6 +21,8 @@ public class Tarea1java {
      * edad a string, double y float 
      * telefono a string
      */
+     
+        Scanner               
     }
     
 }
